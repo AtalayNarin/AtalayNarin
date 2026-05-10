@@ -44,7 +44,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
-
 ## 📂 Projelerim
 
 ### ⚡ StudyFlow — Çalışma Takip Uygulaması
@@ -54,6 +53,15 @@
 - ✅ Geri sayım sayacı
 - ✅ Koyu tema & mor tasarım
 - 🔗 [GitHub](https://github.com/AtalayNarin/calisma-takip) | [Canlı Demo](https://peppy-yeot-ea289a.netlify.app)
+
+### 🗄️ NovaStore-DB — E-Ticaret Veritabanı Projesi
+> MS SQL Server ile geliştirilmiş kapsamlı e-ticaret veritabanı sistemi
+
+- ✅ DDL ile tablo tasarımı (Kategoriler, Ürünler, Müşteriler, Siparişler)
+- ✅ DML ile veri girişi ve yönetimi
+- ✅ İleri seviye SQL sorguları ve JOIN işlemleri
+- ✅ VIEW oluşturma ve veritabanı yedekleme
+- 🔗 [GitHub](https://github.com/AtalayNarin/NovaStore-DB)
 
 ---
 

@@ -70,7 +70,7 @@
 - ✅ Destinasyon keşif ekranı (Paris, İstanbul, Roma, Tokyo...)
 - ✅ Şehir detay sayfası (iklim, en iyi zaman, gezi planlama)
 - ✅ Minimalist & modern UI tasarımı
-- 🎨 [Figma Dosyası](FIGMA_LİNKİNİ_BURAYA_EKLE) | 📄 [Tasarım PDF](./Veli_Atalay_Narin_FigmaUIUX_Tasarim.pdf)
+-  📄 [Tasarım PDF](./Veli_Atalay_Narin_FigmaUIUX_Tasarim.pdf)
 ---
 
 ## 📊 GitHub İstatistikleri

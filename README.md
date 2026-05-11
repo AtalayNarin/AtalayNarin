@@ -63,6 +63,14 @@
 - ✅ VIEW oluşturma ve veritabanı yedekleme
 - 🔗 [GitHub](https://github.com/AtalayNarin/NovaStore-DB)
 
+### ✈️ Voyago — Seyahat Keşif Uygulaması
+> Figma ile tasarlanmış modern seyahat uygulaması UI/UX projesi
+
+- ✅ Giriş & Kayıt ekranı tasarımı
+- ✅ Destinasyon keşif ekranı (Paris, İstanbul, Roma, Tokyo...)
+- ✅ Şehir detay sayfası (iklim, en iyi zaman, gezi planlama)
+- ✅ Minimalist & modern UI tasarımı
+- 🎨 [Figma Dosyası](FIGMA_LİNKİNİ_BURAYA_EKLE) | 📄 [Tasarım PDF](./Veli_Atalay_Narin_FigmaUIUX_Tasarim.pdf)
 ---
 
 ## 📊 GitHub İstatistikleri

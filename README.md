@@ -73,10 +73,6 @@
 -  📄 [Tasarım PDF](./Veli_Atalay_Narin_FigmaUIUX_Tasarim.pdf)
 ---
 
-## 📊 GitHub İstatistikleri
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtalayNarin&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtalayNarin&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
